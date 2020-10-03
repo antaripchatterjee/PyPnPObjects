@@ -1,0 +1,6 @@
+pypnpobjects/__pycache__/*.*
+pypnpobjects/__pycache__
+*.pyc
+debug.*
+*.exe
+*.log
