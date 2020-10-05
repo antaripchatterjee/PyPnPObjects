@@ -1,5 +1,13 @@
 pypnpobjects/__pycache__/*.*
 pypnpobjects/__pycache__
+PyPnPObjects.egg-info/*
+build/lib/pypnpobjects/*.*
+build/lib/pypnpobjects
+build/lib
+build/bdist.win-amd64
+build
+dist/*.*
+dist
 *.pyc
 debug.*
 *.exe
