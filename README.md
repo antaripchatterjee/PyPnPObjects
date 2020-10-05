@@ -36,7 +36,7 @@ This is a simple python module to get the detail level information about Win32 [
 
 ## Version Information ##
 
-Current version of this module is in BETA version ***0.1.8***.
+Current version of this module is in BETA version ***0.1.9***.
 
 ----
 

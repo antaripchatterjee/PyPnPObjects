@@ -14,7 +14,10 @@ def get_version(metadata):
 
 def main():
     prog_name = "PyPnPObjects"
-    pkgInfo = get_distribution(prog_name).get_metadata('PKG-INFO')
+    try:
+        pkgInfo = get_distribution(prog_name).get_metadata('PKG-INFO')
+    except:
+        pkgInfo = get_distribution(prog_name).get_metadata('METADATA')
     msg = message_from_string(pkgInfo)
     items = msg.items()
     version_info = get_version(items)
