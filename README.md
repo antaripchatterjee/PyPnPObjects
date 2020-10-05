@@ -265,7 +265,7 @@ I was working in a project which had some requirements and I could not figure ou
 
 ## License ##
 
-With the power of opensource project, this module is licensed with [MIT License](https://github.com/antaripchatterjee/PyPnPObjects/blob/master/LICENSE) which let you feel free to do any thing that comes under [MIT License](https://opensource.org/licenses/MIT).
+With the power of opensource project, this module is licensed with [MIT License](https://github.com/antaripchatterjee/pypnpobjects/LICENSE) which let you feel free to do any thing that comes under [MIT License](https://opensource.org/licenses/MIT).
 
 ----
 
