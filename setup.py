@@ -64,10 +64,10 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Environment :: Console",
         "Development Status :: %d - %s"%(meta.development_status, status),
-        "Intended Audience :: Students",
+        "Intended Audience :: End Users/Desktop",
         "Intended Audience :: Developers",
         "Intended Audience :: Education",
-        "Topic :: Win32-WMIObjects"
+        "Topic :: System :: Hardware :: Hardware Drivers"
     ],
     packages=["pypnpobjects"],
     include_package_data=True,
